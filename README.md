@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!</h1>
 
-![spectra-program-management-side-1024x576](https://github.com/robbie9715/TDFIT/blob/master/frontend/public/img/projects/devsirius_logo.jpg)
+![spectra-program-management-side-1024x576](https://github.com/robbie9715/TDFIT/blob/master/frontend/public/img/projects/smartdev.JPG)
 
 
 <!-- <div id="badges" align="center">
@@ -14,11 +14,10 @@
 
 
 
-> I am a proficient `full stack developer` with 7 years of hands-on experience in `MERN stack`. <br /> My major skills are react-redux ,  typescript, next.js, material-ui, tailwind css for frontend.I have pretty good experiences in Nodejs, graphQL, php framework laravel, mongodb, firebase for backend. <br /> In terms of cloud service, I have 5 years of experience in Digital Ocean, google cloud and AWS.<br />My Secondary skill is `mobile app` development.<br />I am a Highly motivated hybrid mobile app developer with over 5 plus years of experience.<br />While working as a Freelancer and in MOOD MEDIA company, I built `30 mobils apps` in the hybrid mode using react-native and flutter and deployed them to app stores.
 
 
 
-# :hammer_and_wrench: Languages and Tools :
+# :hammer_and_wrench: My skill :
 <table><tr><td valign="top" width="100%">
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -52,15 +51,9 @@
  </div>
 </td></tr></table>
 
----
 
-<a href="https://63d610bacb7bf7128148b97f--zesty-duckanoo-b89cd0.netlify.app/">
-<div align="center">
 
-![spectra-program-management-side-500x380](https://github.com/robbie9715/TDFIT/blob/master/frontend/public/img/projects/projects_low.jpg)
-  
-</div>
-</a>  
+
     
     
     
