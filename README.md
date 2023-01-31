@@ -1,6 +1,5 @@
 <h1 align="center">Welcome!</h1>
 
-<img src="your_relative_path_here" width="350" title="hover text">
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
