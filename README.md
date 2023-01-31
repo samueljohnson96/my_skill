@@ -2,8 +2,11 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://[media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://github.com/robbie9715/TDFIT/blob/master/frontend/public/img/projects/project02.jpg)" width="600" height="300"/>
 </div>
+
+
+
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,22 +16,15 @@
   </a>
 </div>
 
+
+
+> I am a proficient `full stack developer` with 7 years of hands-on experience in `MERN stack`. <br /> My major skills are react-redux ,  typescript, next.js, material-ui, tailwind css for frontend.I have pretty good experiences in Nodejs, graphQL, php framework laravel, mongodb, firebase for backend. <br /> In terms of cloud service, I have 5 years of experience in Digital Ocean, google cloud and AWS.<br />My Secondary skill is `mobile app` development.<br />I am a Highly motivated hybrid mobile app developer with over 5 plus years of experience.<br />While working as a Freelancer and in MOOD MEDIA company, I built `30 mobils apps` in the hybrid mode using react-native and flutter and deployed them to app stores.
+
 ---
 
-<h5 align="center">I am a proficient full stack developer with 7 years of hands-on experience
-in MERN stack.
-my major skills are react-redux,  typescript, next.js, material-ui, tailwind css for frontend.
-I have pretty good experiences in Nodejs, graphQL, php framework laravel, mongodb, firebase for backend.
-In terms of cloud service, I have 5 years of experience in Digital Ocean, google cloud and AWS.
-My Secondary skill is mobile app development.
-I am a highly motivated hybrid mobile app developer with over 5 plus years of experience.
-While working as a Freelancer and in MOOD MEDIA company, I built 30 mobils apps in the hybrid mode using react-native and flutter and deployed them to app stores.
-</h5>
-
-<h1 align="center">Skill:</h1>
 :hammer_and_wrench: Languages and Tools :
-
-<div>
+<table><tr><td valign="top" width="100%">
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
@@ -58,6 +54,7 @@ While working as a Freelancer and in MOOD MEDIA company, I built 30 mobils apps 
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
  </div>
+</td></tr></table>
 
 
   
