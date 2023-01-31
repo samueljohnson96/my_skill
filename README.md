@@ -1,20 +1,16 @@
 <h1 align="center">Welcome!</h1>
 
-
-<div align="center">
-  <img src="https://[media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://github.com/robbie9715/TDFIT/blob/master/frontend/public/img/projects/project02.jpg)" width="600" height="300"/>
-</div>
+![spectra-program-management-side-1024x576](https://github.com/robbie9715/TDFIT/blob/master/frontend/public/img/projects/devsirius_logo.jpg)
 
 
-
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Skype-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-</div>
+</div> -->
 
 
 
