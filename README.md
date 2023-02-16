@@ -1,6 +1,6 @@
 
 
-![spectra-program-management-side-1024x576](https://github.com/robbie9715/TDFIT/blob/master/frontend/public/img/projects/smartdev.JPG)
+
 
 
 <!-- <div id="badges" align="center">
